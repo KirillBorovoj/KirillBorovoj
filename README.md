@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @KirillBorovoj
-- 👀 I’m interested in web-developing.
-- 🌱 I’m currently learning HTML 5, CSS 3, JS, C++
-- 📫 How to reach me https://www.instagram.com/kirill.borovoj1990/
-
+- 👀 I’m interested in Python programing.
+- 🌱 I’m currently learning Python, PostgreSQL, JAVA
+- 📫 How to reach me @kirill_borovoj
